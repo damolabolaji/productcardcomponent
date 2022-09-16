@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background-color: rgb(242, 235, 227);
+}
+
+.container{
+    width: 90%;
+    margin: 1rem auto;
+    background: rgb(255, 255, 255);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(108, 114, 137);
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;    
+    font-size: 1.5rem;
+    font-weight: 100;
+    text-transform: capitalize;
+}
+
+h1{
+    font-family: 'Fraunces', serif;
+    font-size: 4.5rem;
+    color: hsl(212, 21%, 14%);
+}
+
+p{
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.product-image{
+    background-image: url(images/image-product-mobile.jpg);
+    max-width: 100%;
+    height: 30rem;
+    background-size: cover;
+}
+
+.card-details{
+    padding: 2rem;
+}

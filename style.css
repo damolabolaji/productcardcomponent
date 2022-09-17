@@ -10,7 +10,7 @@ html{
 
 body{
     background-color: rgb(242, 235, 227);
-    
+    height: 100vh;
 }
 
 .container{
@@ -110,7 +110,7 @@ p{
     .container{
         display: flex;
         width: 50%; 
-        height: 50%;
+        
     }
 
     .product-image{

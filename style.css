@@ -104,7 +104,7 @@ p{
     body{
         display:flex;
         align-items: center;
-        justify-contents:center;
+        justify-content:center;
     }
 
     .container{

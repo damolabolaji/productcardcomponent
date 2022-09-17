@@ -100,7 +100,11 @@ p{
 /* media queries */
 
 @media screen and (min-width: 480px){
-
+    body{
+        display:flex;
+        align-items: center;
+        justify-contents:center;
+    }
 
     .container{
         display: flex;

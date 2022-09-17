@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](design/desktop-preview.jpeg)
 
 
 
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://cardcomponentfm.netlify.app)
+- Live Site URL: [Card component](https://cardcomponentfm.netlify.app)
 
 ## My process
 
